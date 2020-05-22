@@ -1,0 +1,22 @@
+/* body{
+  background-image: url("images/pattern-bg.svg");
+  background-repeat: no-repeat;
+  background-position: top;
+} */
+
+.bg-img{
+  background-image: url("images/pattern-bg.svg");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  /* height: 80%; */
+}
+
+.row{
+  height: 95vh;
+}
+
+img{
+  margin-top: 11%;
+  border-radius: 4px;
+  margin-left: 18.5%;
+}
